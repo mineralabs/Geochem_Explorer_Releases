@@ -20,3 +20,8 @@
 - Existing `Analyte Colouring` presets can now be used directly in Plan View through `Drill Scale` and `Surface Scale > Saved Preset`.
 - Surface samples and drillholes have separate ID filters. `Hole ID` lists drillholes only, while `Surface Sample ID` lists surface samples only.
 - Plan View legends now adapt to available space: compact views show one scale when both drill and surface layers are visible, while maximized views can show separate drill and surface scales.
+
+### Updates
+
+- Added built-in online update checks against the public GeoChem Explorer GitHub releases repository.
+- Kept shared release folder support for internal/company deployment.

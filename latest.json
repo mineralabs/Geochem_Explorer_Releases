@@ -1,9 +1,8 @@
 {
-  "version": "0.2.4",
-  "installer": "releases/v0.2.4/GeoChem Explorer_0.2.4_aarch64.dmg",
-  "windowsInstaller": "releases/v0.2.4/GeoChem Explorer_0.2.4_x64-setup.exe",
-  "macosInstaller": "releases/v0.2.4/GeoChem Explorer_0.2.4_aarch64.dmg",
-  "publishedAt": "2026-06-15",
-  "notes": "GeoChem Explorer 0.2.4 adds first-class surface sample support for soils, rock chips, grab samples, and other point geochemistry. Plan View now includes layer controls for Both, Surface, and Drill Holes, independent drill and surface colour scales, Auto Jenks 6 surface colouring, and saved Analyte Colouring presets for surface samples. Update checks now use the public GeoChem Explorer GitHub releases by default, with shared release folder support retained for internal deployments.",
-  "mandatory": false
+    "version":  "0.2.5",
+    "installer":  "GeoChem Explorer_0.2.5_x64-setup.exe",
+    "publishedAt":  "2026-06-15",
+    "notes":  "v0.25: In-app registration, user email and launch tracking, top bar menus, report builder PDF export and composite intercepts.",
+    "mandatory":  false,
+    "windowsInstaller":  "GeoChem Explorer_0.2.5_x64-setup.exe"
 }

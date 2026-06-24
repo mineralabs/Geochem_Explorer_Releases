@@ -6,13 +6,11 @@ This repository is used for installers, user guides, and release notes. The appl
 
 ## Latest Release
 
-Version: `0.2.4`
+Version: `0.2.5`
 
-- [Download for macOS Apple Silicon](releases/v0.2.4/GeoChem%20Explorer_0.2.4_aarch64.dmg)
-- [Download for Windows x64](releases/v0.2.4/GeoChem%20Explorer_0.2.4_x64-setup.exe)
-- [User Guide](releases/v0.2.4/GeoChem%20Explorer%20User%20Guide.pdf)
-- [Install Quick Start](releases/v0.2.4/GeoChem%20Explorer%20Install%20Quick%20Start.pdf)
-- [Release Notes](releases/v0.2.4/RELEASE_NOTES.md)
+- [Download for Windows x64](https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.2.5/GeoChem.Explorer_0.2.5_x64-setup.exe)
+- [User Guide](https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.2.5/GeoChem.Explorer.User.Guide.pdf)
+- [Install Quick Start](https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.2.5/GeoChem.Explorer.Install.Quick.Start.pdf)
 
 ## Licence
 

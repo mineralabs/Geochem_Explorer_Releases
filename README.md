@@ -14,6 +14,10 @@ Version: `0.2.4`
 - [Install Quick Start](releases/v0.2.4/GeoChem%20Explorer%20Install%20Quick%20Start.pdf)
 - [Release Notes](releases/v0.2.4/RELEASE_NOTES.md)
 
-## Preview Use Notice
+## Licence
 
-GeoChem Explorer is provided as free-to-use software during its current preview/beta period. Redistribution, resale, modification, reverse engineering, or commercial hosting of the installers is not permitted without written permission from Mineralabs.
+GeoChem Explorer is currently free to use during its preview/beta testing period.
+
+It is not open-source software. Redistribution, resale, modification, reverse engineering, repackaging, or commercial hosting of the installers is not permitted without written permission from Mineralabs.
+
+See `LICENCE.md` for full terms.

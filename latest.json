@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.5",
-    "installer":  "GeoChem Explorer_0.2.5_x64-setup.exe",
-    "publishedAt":  "2026-06-15",
-    "notes":  "v0.25: In-app registration, user email and launch tracking, top bar menus, report builder PDF export and composite intercepts.",
-    "mandatory":  false,
-    "windowsInstaller":  "GeoChem Explorer_0.2.5_x64-setup.exe"
+  "version": "0.2.6",
+  "installer": "GeoChem Explorer_0.2.6_aarch64.dmg",
+  "publishedAt": "2026-06-27",
+  "notes": "GeoChem Explorer 0.2.6 release.",
+  "mandatory": false,
+  "macosInstaller": "GeoChem Explorer_0.2.6_aarch64.dmg"
 }

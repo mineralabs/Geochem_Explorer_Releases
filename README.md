@@ -10,8 +10,8 @@ Version: `0.2.6`
 
 - [Download for Windows x64](https://github.com/mineralabs/Geochem_Explorer_Releases/releases/latest/download/GeoChem%20Explorer_0.2.6_x64-setup.exe)
 - [Chalice 2020 Discovery Julimar sample project](./Chalice%202020%20Discovery%20Julimar.zip)
-- [User Guide](https://github.com/mineralabs/Geochem_Explorer_Releases/releases/latest/download/GeoChem%20Explorer%20User%20Guide.pdf)
-- [Install Quick Start](https://github.com/mineralabs/Geochem_Explorer_Releases/releases/latest/download/GeoChem%20Explorer%20Install%20Quick%20Start.pdf)
+- [User Guide](https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.2.6/USER_GUIDE.md)
+- [Install Quick Start](https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.2.6/INSTALL_QUICK_START.md)
 
 ## Licence
 

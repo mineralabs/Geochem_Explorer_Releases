@@ -1,8 +1,9 @@
 {
   "version": "0.2.6",
-  "installer": "GeoChem Explorer_0.2.6_aarch64.dmg",
+  "installer": "GeoChem Explorer_0.2.6_x64-setup.exe",
   "publishedAt": "2026-06-27",
   "notes": "GeoChem Explorer 0.2.6 release.",
   "mandatory": false,
+  "windowsInstaller": "GeoChem Explorer_0.2.6_x64-setup.exe",
   "macosInstaller": "GeoChem Explorer_0.2.6_aarch64.dmg"
 }

@@ -6,11 +6,12 @@ This repository is used for installers, user guides, and release notes. The appl
 
 ## Latest Release
 
-Version: `0.2.5`
+Version: `0.2.6`
 
-- [Download for Windows x64](https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.2.5/GeoChem.Explorer_0.2.5_x64-setup.exe)
-- [User Guide](https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.2.5/GeoChem.Explorer.User.Guide.pdf)
-- [Install Quick Start](https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.2.5/GeoChem.Explorer.Install.Quick.Start.pdf)
+- [Download for Windows x64](https://github.com/mineralabs/Geochem_Explorer_Releases/releases/latest/download/GeoChem%20Explorer_0.2.6_x64-setup.exe)
+- [Chalice 2020 Discovery Julimar sample project](./Chalice%202020%20Discovery%20Julimar.zip)
+- [User Guide](https://github.com/mineralabs/Geochem_Explorer_Releases/releases/latest/download/GeoChem%20Explorer%20User%20Guide.pdf)
+- [Install Quick Start](https://github.com/mineralabs/Geochem_Explorer_Releases/releases/latest/download/GeoChem%20Explorer%20Install%20Quick%20Start.pdf)
 
 ## Licence
 
@@ -18,4 +19,4 @@ GeoChem Explorer is currently free to use during its preview/beta testing period
 
 It is not open-source software. Redistribution, resale, modification, reverse engineering, repackaging, or commercial hosting of the installers is not permitted without written permission from Mineralabs.
 
-See `LICENCE.md` for full terms.
+See [`LICENCE.md`](./LICENCE.md) for full terms.

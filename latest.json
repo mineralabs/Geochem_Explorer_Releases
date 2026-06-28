@@ -1,9 +1,10 @@
 {
   "version": "0.2.6",
   "installer": "GeoChem Explorer_0.2.6_x64-setup.exe",
+  "installerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.2.6/GeoChem.Explorer_0.2.6_x64-setup.exe",
   "publishedAt": "2026-06-27",
-  "notes": "GeoChem Explorer 0.2.6 release.",
+  "notes": "GeoChem Explorer 0.2.6 release. macOS DMG temporarily withheld pending Developer ID signing and notarization.",
   "mandatory": false,
   "windowsInstaller": "GeoChem Explorer_0.2.6_x64-setup.exe",
-  "macosInstaller": "GeoChem Explorer_0.2.6_aarch64.dmg"
+  "windowsInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.2.6/GeoChem.Explorer_0.2.6_x64-setup.exe"
 }

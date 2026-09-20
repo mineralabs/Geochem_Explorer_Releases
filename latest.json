@@ -1,11 +1,9 @@
 {
-  "version": "0.2.6",
-  "installer": "GeoChem Explorer_0.2.6_x64-setup.exe",
-  "publishedAt": "2026-06-28",
-  "notes": "GeoChem Explorer 0.2.6 release. macOS DMG replaced with Developer ID signed and notarized build.",
+  "version": "0.3.0",
+  "installer": "GeoChem Explorer_0.3.0_x64-setup.exe",
+  "publishedAt": "2026-09-20",
+  "notes": "GeoChem Explorer 0.3.0 rebuilds plan and section on a GPU 3D scene: right-drag any view to orbit it. New in this release: implicit modelling (grade shells, contact surfaces, stratigraphic columns), a wireframe and compartment toolkit, block models with variography, kriging, classification and reports, a Guided Model Builder, and pit optimisation and design. Also a ribbon interface, a faster native data engine, and in-app editing of input CSVs. Mouse controls have changed: left selects, middle pans, right orbits. Existing projects rebuild their cache once on first open.",
   "mandatory": false,
-  "windowsInstaller": "GeoChem Explorer_0.2.6_x64-setup.exe",
-  "windowsInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.2.6/GeoChem.Explorer_0.2.6_x64-setup.exe",
-  "macosInstaller": "GeoChem Explorer_0.2.6_aarch64.dmg",
-  "macosInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.2.6/GeoChem.Explorer_0.2.6_aarch64.dmg"
+  "windowsInstaller": "GeoChem Explorer_0.3.0_x64-setup.exe",
+  "windowsInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.0/GeoChem.Explorer_0.3.0_x64-setup.exe"
 }

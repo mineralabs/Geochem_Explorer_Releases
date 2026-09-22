@@ -1,9 +1,9 @@
 {
-  "version": "0.3.0",
-  "installer": "GeoChem Explorer_0.3.0_x64-setup.exe",
-  "publishedAt": "2026-09-20",
-  "notes": "GeoChem Explorer 0.3.0 rebuilds plan and section on a GPU 3D scene: right-drag any view to orbit it. New in this release: implicit modelling (grade shells, contact surfaces, stratigraphic columns), a wireframe and compartment toolkit, block models with variography, kriging, classification and reports, a Guided Model Builder, and pit optimisation and design. Also a ribbon interface, a faster native data engine, and in-app editing of input CSVs. Mouse controls have changed: left selects, middle pans, right orbits. Existing projects rebuild their cache once on first open.",
+  "version": "0.3.1",
+  "installer": "GeoChem Explorer_0.3.1_x64-setup.exe",
+  "publishedAt": "2026-09-22",
+  "notes": "GeoChem Explorer 0.3.1 fixes the sample project, which did not load in 0.3.0, and import failures on mine and local grids, upper-case assay exports, and projects without a hole type. New: a Plot tab for printable PDF pages, pasting a list of hole IDs into the hole picker, a length-weighted statistics table by rock type, a section overview map, and a readout of the view's bearing and plunge.",
   "mandatory": false,
-  "windowsInstaller": "GeoChem Explorer_0.3.0_x64-setup.exe",
-  "windowsInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.0/GeoChem.Explorer_0.3.0_x64-setup.exe"
+  "windowsInstaller": "GeoChem Explorer_0.3.1_x64-setup.exe",
+  "windowsInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.1/GeoChem.Explorer_0.3.1_x64-setup.exe"
 }

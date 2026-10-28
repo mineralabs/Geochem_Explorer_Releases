@@ -4,6 +4,8 @@
   "publishedAt": "2026-10-28",
   "notes": "Lithology block models built from the logging, projects in feet, and projects with collars, surveys and logs but no assays yet. Imports are much faster, surface samples can come from several files, holes without assays draw, drill layers can be limited to named groups of holes, and a drill programme can be read from the team's schedule.",
   "mandatory": false,
+  "macosInstaller": "GeoChem Explorer_0.3.4_aarch64.dmg",
+  "macosInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.4/GeoChem.Explorer_0.3.4_aarch64.dmg",
   "windowsInstaller": "GeoChem Explorer_0.3.4_x64-setup.exe",
   "windowsInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.4/GeoChem.Explorer_0.3.4_x64-setup.exe"
 }

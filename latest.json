@@ -1,11 +1,11 @@
 {
-  "version": "0.3.4",
-  "installer": "GeoChem Explorer_0.3.4_x64-setup.exe",
-  "publishedAt": "2026-10-28",
-  "notes": "Lithology block models built from the logging, projects in feet, and projects with collars, surveys and logs but no assays yet. Imports are much faster, surface samples can come from several files, holes without assays draw, drill layers can be limited to named groups of holes, and a drill programme can be read from the team's schedule.",
+  "version": "0.3.5",
+  "installer": "GeoChem Explorer_0.3.5_x64-setup.exe",
+  "publishedAt": "2026-11-02",
+  "notes": "Models now use every sample, and grade can be profiled across a logged contact without a wireframe. Holes with no survey follow their collar direction, assays keep their lab and QC details, and surfaces and composites can be built on filtered holes. Category colours can be typed or imported, faded models are see-through, and ER Mapper surfaces can be imported.",
   "mandatory": false,
-  "macosInstaller": "GeoChem Explorer_0.3.4_aarch64.dmg",
-  "macosInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.4/GeoChem.Explorer_0.3.4_aarch64.dmg",
-  "windowsInstaller": "GeoChem Explorer_0.3.4_x64-setup.exe",
-  "windowsInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.4/GeoChem.Explorer_0.3.4_x64-setup.exe"
+  "windowsInstaller": "GeoChem Explorer_0.3.5_x64-setup.exe",
+  "windowsInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.5/GeoChem.Explorer_0.3.5_x64-setup.exe",
+  "macosInstaller": "GeoChem Explorer_0.3.5_aarch64.dmg",
+  "macosInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.5/GeoChem.Explorer_0.3.5_aarch64.dmg"
 }

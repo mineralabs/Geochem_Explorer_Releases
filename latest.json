@@ -1,11 +1,11 @@
 {
-  "version": "0.3.5",
-  "installer": "GeoChem Explorer_0.3.5_x64-setup.exe",
-  "publishedAt": "2026-11-02",
-  "notes": "Models now use every sample, and grade can be profiled across a logged contact without a wireframe. Holes with no survey follow their collar direction, assays keep their lab and QC details, and surfaces and composites can be built on filtered holes. Category colours can be typed or imported, faded models are see-through, and ER Mapper surfaces can be imported.",
+  "version": "0.3.6",
+  "installer": "GeoChem Explorer_0.3.6_x64-setup.exe",
+  "publishedAt": "2026-11-14",
+  "notes": "A guided setup checks a new project's files step by step before the first load, and lithology can come from several files. Projects can work in US customary units throughout. The Model Builder handles oxidation zones and mineral types, sets reach and classification from holes it has not seen, estimates by-products and stress-tests each decision. GIS layers take map-sheet patterns and colour files, Geosoft grids load directly, and files can be dragged in from Explorer or Finder.",
   "mandatory": false,
-  "windowsInstaller": "GeoChem Explorer_0.3.5_x64-setup.exe",
-  "windowsInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.5/GeoChem.Explorer_0.3.5_x64-setup.exe",
-  "macosInstaller": "GeoChem Explorer_0.3.5_aarch64.dmg",
-  "macosInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.5/GeoChem.Explorer_0.3.5_aarch64.dmg"
+  "windowsInstaller": "GeoChem Explorer_0.3.6_x64-setup.exe",
+  "windowsInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.6/GeoChem.Explorer_0.3.6_x64-setup.exe",
+  "macosInstaller": "GeoChem Explorer_0.3.6_aarch64.dmg",
+  "macosInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.6/GeoChem.Explorer_0.3.6_aarch64.dmg"
 }
